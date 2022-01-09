@@ -30,6 +30,18 @@
 </p>
 
 
+# Portfolio-Dev.MSG
+
+## 민순기
+
+### [👩‍💻 Notion 포트폴리오]
+
+
+**1994.03.08**  
+email - milk6645@gmail.com  
+github - https://github.com/JuniorMSG
+blog1 - https://juniormsg.github.io
+blog2 - https://steadiness-dev-invest.tistory.com
 
 
 
