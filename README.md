@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @JuniorMSG
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
 <p align="center">
@@ -24,7 +18,7 @@
 </p>
 
 
-<h3 align="center"><b>😻 Hobby 😻</b></h3>
+<h3 align="center"><b>:smiley_cat: Hobby :smiley_cat:</b></h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/></a> &nbsp 
