@@ -26,7 +26,6 @@
 
 ### Tools 
 <p align="left">
-
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 </p>
 
