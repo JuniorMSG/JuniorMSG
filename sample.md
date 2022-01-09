@@ -1,2 +1,1 @@
-- icon
-https://gist.github.com/rxaviers/7360908
+- icon : https://gist.github.com/rxaviers/7360908
