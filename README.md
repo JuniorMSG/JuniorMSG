@@ -38,10 +38,10 @@
 
 
 **1994.03.08**  
-email - milk6645@gmail.com  
-github - https://github.com/JuniorMSG
-blog1 - https://juniormsg.github.io
-blog2 - https://steadiness-dev-invest.tistory.com
+email - milk6645@gmail.com <br>
+github - https://github.com/JuniorMSG <br>
+blog1 - https://juniormsg.github.io <br>
+blog2 - https://steadiness-dev-invest.tistory.com <br>
 
 
 
