@@ -63,8 +63,9 @@ blog2 - https://steadiness-dev-invest.tistory.com <br>
 
 
 ### :fire: Side Projects
-|DATE|STACK|Contents|REPO 
-|2022-01-12 ~ 2022|Python, Selenium|파이썬 사용 - Tkinter(GUI), Automation(자동화) 환경 구축 (진행중) | https://github.com/JuniorMSG/python_gui
+|DATE|STACK|Contents|REPO|
+|:-----------------------:|:-------------------:|:-------------------------------------------------:|:----------------------------------------------:|
+|2022-01-12 ~ 2022|Python, Selenium| Tkinter(GUI) 기반 Automation 툴 제작하기 (웹, 윈도우 자동화) | https://github.com/JuniorMSG/python_gui
 
 
 
