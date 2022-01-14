@@ -24,6 +24,15 @@
 ![Platform](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
 ![Tools](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 
+
+### :fire: Stduy
+![Stack](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
+![Stack](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)
+![Stack](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
+
+![Stack](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![Stack](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white)
+
 # Portfolio-Dev.MSG
 
 ## 민순기
@@ -54,6 +63,8 @@ blog2 - https://steadiness-dev-invest.tistory.com <br>
 
 
 ### :fire: Side Projects
+
+
 
 
 
