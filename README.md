@@ -1,7 +1,7 @@
 
 
 ### :hammer: Tech Stack
-![Stack](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
+![Stack]( /badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![Stack](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 ![Stack](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
 ![Stack](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
@@ -64,8 +64,11 @@ blog2 - https://steadiness-dev-invest.tistory.com <br>
 
 ### :fire: Side Projects
 |DATE|STACK|Contents|REPO|
-|:-----------------:|:-----------------------:|:-------------------------------------------------:|:----------------------------------------------:|
-| 2022.01 ~ 2022.04 | Python<br>Selenium| Tkinter(GUI) 기반 Automation 툴 제작하기 (웹, 윈도우 자동화) | https://github.com/JuniorMSG/python_rpa_gui
+|:-----------------:|:-----------------------:|:------------------------------------------------------------:|:----------------------------------------------:|
+| 2022.01 ~ 2022. | Python<br>Selenium| Tkinter(GUI) 기반 Automation 툴 제작하기 <br> (웹, 윈도우 자동화) | https://github.com/JuniorMSG/python_rpa_gui
+| 2022.02 ~ 2022. |![Stack](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)
+SCSS
+| Tkinter(GUI) 기반 Automation 툴 제작하기 <br> (웹, 윈도우 자동화) | https://github.com/JuniorMSG/python_rpa_gui
 
 
 
