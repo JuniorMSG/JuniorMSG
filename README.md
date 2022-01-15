@@ -50,7 +50,7 @@
 | 2019.05 ~ 2019.07 | Project | 데이터 활용                        | 공공데이터 이관 프로젝트                                   | WISEiTECH & 마사회 <br>NIA |
 | 2019.04 ~ 2019.05 | Project | Web Front <br> BackEnd            | 환경정보 융합 빅데이터 플랫폼 구축                          | WISEiTECH & 환경부 |
 | 2019.03 ~ 2019.04 | Project | Web Front <br> BackEnd            | 지식경영(KM)시스템 기능개선                                | WISEiTECH |
-| 2019.03 ~ 2019.04 | Start   | Web Front <br> BackEnd            | WISEiTECH 입사                                           | WISEiTECH |
+| 2019.03           | Start   | Web Front <br> BackEnd            | WISEiTECH 입사                                           | WISEiTECH |
 
 ### [👩‍💻 Notion 포트폴리오]
 
@@ -66,11 +66,7 @@ blog2 - https://steadiness-dev-invest.tistory.com <br>
 |DATE|STACK|Contents|REPO|
 |:-----------------:|:-----------------------|:------------------------------------------------------------:|:----------------------------------------------:|
 | 2022.01 ~ 2022. | ![Stack](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)<br>![Stack](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white)| Tkinter(GUI) 기반 Automation 툴 제작하기 <br> (웹, 윈도우 자동화) | https://github.com/JuniorMSG/python_rpa_gui
-| 2022.02 ~ 2022. |![Stack](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)<br>![Stack](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)<br>![Stack](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=SCSS&logoColor=white)<br>![Stack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=white)<br>![Stack](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white)<br>![Stack](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white)<br>
-
-
-| Tkinter(GUI) 기반 Automation 툴 제작하기 <br> (웹, 윈도우 자동화) | https://github.com/JuniorMSG/python_rpa_gui
-
+| 2022.02 ~ 2022. |![Stack](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)<br>![Stack](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)<br>![Stack](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=SCSS&logoColor=white)<br>![Stack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=white)<br>![Stack](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white)<br>![Stack](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white)<br>|1~3년차간 개발한 주요 기능들을 리엑트로 변환하여 모듈화 작업하기|repo
 
 
 
