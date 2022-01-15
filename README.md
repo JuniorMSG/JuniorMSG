@@ -39,8 +39,8 @@
 
 ### career description
 
-|        Date             | Type | Stack |                      Contents                                                     |                  Organization                 |
-|:-----------------------:|:----:|:-----:|:----------------------------------------------------------------------------------|:----------------------------------------------|
+|        Date       | Type | Stack |                      Contents                                                     |                  Organization                 |
+|:-----------------:|:----:|:------|:----------------------------------------------------------------------------------|:----------------------------------------------|
 | 2021.08 ~ 2022.02 | Project | Web Front <br> BackEnd<br> Python | 2021년 불법온라인도박 감시시스템 구축			                 | WISEiTECH & 사감위 |
 | 2021.01 ~ 2021.12 | Project | Web Front <br> BackEnd            | 2021년 불법온라인도박 감시시스템 통합유지관리		            | WISEiTECH & 사감위 |
 | 2020.05 ~ 2021.01 | Project | Web Front <br> BackEnd            | 20년 불법온라인도박감시시스템 구축 2단계                    | WISEiTECH & 사감위 |
@@ -48,9 +48,9 @@
 | 2019.07 ~ 2020.02 | Project | Web Front <br> BackEnd            | 2019 불법온라인 도박 감시시스템 구축                        | WISEiTECH & 사감위 |
 | 2019.05 ~ 2019.07 | Project | 데이터 활용                        | 말 산업 공공데이터 개방 확대 및 활용 개선                   | WISEiTECH & 마사회 |
 | 2019.05 ~ 2019.07 | Project | 데이터 활용                        | 공공데이터 이관 프로젝트                                   | WISEiTECH & 마사회 <br>NIA |
-| 2019.04 ~ 2019.05 | Project | Web Front + BackEnd               | 환경정보 융합 빅데이터 플랫폼 구축                          | WISEiTECH & 환경부 |
-| 2019.03 ~ 2019.04 | Project | Web Front + BackEnd               | 지식경영(KM)시스템 기능개선                                | WISEiTECH |
-| 2019.03 ~ 2019.04 | Start   | Web Front + BackEnd               | WISEiTECH 입사                                           | WISEiTECH |
+| 2019.04 ~ 2019.05 | Project | Web Front <br> BackEnd            | 환경정보 융합 빅데이터 플랫폼 구축                          | WISEiTECH & 환경부 |
+| 2019.03 ~ 2019.04 | Project | Web Front <br> BackEnd            | 지식경영(KM)시스템 기능개선                                | WISEiTECH |
+| 2019.03 ~ 2019.04 | Start   | Web Front <br> BackEnd            | WISEiTECH 입사                                           | WISEiTECH |
 
 ### [👩‍💻 Notion 포트폴리오]
 
@@ -64,8 +64,8 @@ blog2 - https://steadiness-dev-invest.tistory.com <br>
 
 ### :fire: Side Projects
 |DATE|STACK|Contents|REPO|
-|:-----------------------:|:-------------------:|:-------------------------------------------------:|:----------------------------------------------:|
-|2022-01-12 ~ 2022|Python, Selenium| Tkinter(GUI) 기반 Automation 툴 제작하기 (웹, 윈도우 자동화) | https://github.com/JuniorMSG/python_rpa_gui
+|:-----------------:|:-----------------------:|:-------------------------------------------------:|:----------------------------------------------:|
+| 2022.01 ~ 2022.04 | Python<br>Selenium| Tkinter(GUI) 기반 Automation 툴 제작하기 (웹, 윈도우 자동화) | https://github.com/JuniorMSG/python_rpa_gui
 
 
 
