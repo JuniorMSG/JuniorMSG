@@ -51,14 +51,14 @@
 | 2019.03 ~ 2019.04 | Project | Web Front <br> BackEnd            | 지식경영(KM)시스템 기능개선                                | WISEiTECH |
 | 2019.03           | Start   | Web Front <br> BackEnd            | WISEiTECH 입사                                           | WISEiTECH |
 
-### [👩‍💻 Notion 포트폴리오]
-
+## [👩‍💻 Notion 포트폴리오]
+https://rich-gerbil-784.notion.site/a4d291edd3654faa9f786f728e5aeff8
 
 **1994.03.08**  
-email - milk6645@gmail.com <br>
-github - https://github.com/JuniorMSG <br>
-blog1 - https://juniormsg.github.io <br>
-blog2 - https://steadiness-dev-invest.tistory.com <br>
+email - milk6645@gmail.com  
+github - https://github.com/JuniorMSG   
+blog1 - https://steadiness-dev-invest.tistory.com   
+blog2 - https://juniormsg.github.io   
 
 
 ### :fire: Side Projects
@@ -67,7 +67,7 @@ blog2 - https://steadiness-dev-invest.tistory.com <br>
 | 2022.01 ~ 2022.03 | ![Stack](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)<br>![Stack](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white)| * Tkinter(GUI) 기반 Automation 툴 제작하기 <br> * 컴포넌트 작업 진행하기 GUI, Win, Automation <br><br> * 웹, 윈도우 자동화|[Link](https://github.com/JuniorMSG/python_rpa_gui)
 | 2022.01 ~ 2022.04 |![Stack](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=React&logoColor=white)|React Native 형 논문용 앱 제작 |Repo
 | 2022.07 ~ 2022.09 |![Stack](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)<br>![Stack](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)<br>![Stack](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=SCSS&logoColor=white)<br>![Stack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=white)<br>![Stack](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white)<br>![Stack](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white)<br> ![Stack](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white) | 리엑트 & Spring Boot 통합환경 구성해보기|repo
-| 2022.08 ~ | 블로그 | TIL 하고 기술블로그 작성하기 |Repo
+| 2022.08 ~ | 블로그 | TIL 하고 Git 기술블로그 작성하기 |Repo
 
 
 <!---
