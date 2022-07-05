@@ -18,6 +18,7 @@
 ## DevOps
 ![Platform](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
 ![Tools](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
+![Stack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
 ## ETC
 ![Stack](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
