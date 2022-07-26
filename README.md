@@ -51,9 +51,6 @@
 | 2019.03 ~ 2019.04 | Project | Web Front <br> BackEnd            | 지식경영(KM)시스템 기능개선                                | WISEiTECH |
 | 2019.03           | Start   | Web Front <br> BackEnd            | WISEiTECH 입사                                           | WISEiTECH |
 
-## [👩‍💻 Notion 포트폴리오]
-https://rich-gerbil-784.notion.site/a4d291edd3654faa9f786f728e5aeff8
-
 **1994.03.08**  
 email - milk6645@gmail.com  
 github - https://github.com/JuniorMSG   
