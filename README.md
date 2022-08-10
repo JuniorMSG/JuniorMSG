@@ -49,8 +49,7 @@
 ### INFO
 email - milk6645@gmail.com  
 github - https://github.com/JuniorMSG   
-blog1 - https://steadiness-dev-invest.tistory.com   
-blog2 - https://juniormsg.github.io   
+blog - https://steadiness-dev-invest.tistory.com   
 
 
 ### :fire: Side Projects
