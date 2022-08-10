@@ -25,13 +25,8 @@
 
 ![Stack](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white)
 
-### :fire: Study
-![Stack](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
-![Stack](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)
-![Stack](https://img.shields.io/badge/Study-Spring--boot-brightgreen)
 
 # Portfolio-Dev.MSG
-
 ## 민순기 (MSG)
 
 ### career description
