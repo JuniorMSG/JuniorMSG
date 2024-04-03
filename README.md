@@ -48,7 +48,7 @@ blog - https://steadiness-dev-invest.tistory.com
 | 2022.01 ~ 2022.03 | ![Stack](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)<br>![Stack](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white)| * Tkinter(GUI) 기반 Automation 툴 제작하기 <br> * 컴포넌트 작업 진행하기 GUI, Win, Automation <br><br> * 웹, 윈도우 자동화|[Link](https://github.com/JuniorMSG/python_rpa_gui)
 | 2022.01 ~ 2022.04 |![Stack](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=React&logoColor=white)|React Native 형 논문용 앱 제작 |Repo
 | 2022.07 ~ 2022.09 |![Stack](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)| Spring Boot 사이드 프로젝트 진행하기 |repo
-| 2022.08 ~ | 블로그 | TIL 하고 Git 기술블로그 작성하기 |Repo
+| 2022.08 ~ | 블로그 | TIL & 기술블로그 작성하기 |Repo
 
 <!---
 JuniorMSG/JuniorMSG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
