@@ -53,14 +53,13 @@
 
 |        Date       |Stack |                      Contents                                                     |                  회사                 |
 |:-----------------:|:------:|:----------------------------------------------------------------------------------|:---------------------------------------------
-| 2022.10 ~ 현재 |  BackEnd | 잡플래닛 | 잡플래닛 |
+| 2022.10 ~ 2025.07 |  BackEnd | 잡플래닛 | 잡플래닛 |
 | 2019.03 ~ 2022.10     | BackEnd , FrontEnd, DB            | 사감위 시스템 구축 및 운영  | 위세아이텍 |
 
 
 ### INFO
 email - milk6645@gmail.com  
 github - https://github.com/JuniorMSG   
-blog - https://steadiness-dev-invest.tistory.com   
 
 
 <!---
