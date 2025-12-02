@@ -1,11 +1,9 @@
-
-
-
 # :hammer: Tech Stack
 
 ## Backend
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java)
-![Stack](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby)
 ![Rails](https://img.shields.io/badge/Rails-CC0000?style=flat-square&logo=ruby-on-rails)
@@ -23,6 +21,7 @@
 ## Infrastructure & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
@@ -36,26 +35,27 @@
 
 ## Tools & Collaboration
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=github)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack)
 
-## ETC
-![Stack](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white)
-
-
-
+## Testing & Automation
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 
 # Portfolio-Dev.MSG
 
-### career description
+## 👨‍💻 Career
 
-|        Date       |Stack |                      Contents                                                     |                  회사                 |
-|:-----------------:|:------:|:----------------------------------------------------------------------------------|:---------------------------------------------
-| 2022.10 ~ 2025.07 |  BackEnd | 잡플래닛 | 잡플래닛 |
-| 2019.03 ~ 2022.10     | BackEnd , FrontEnd, DB            | 사감위 시스템 구축 및 운영  | 위세아이텍 |
-
+|        Date       |Position|                      Contents                                                     |                  Company                 |
+|:-----------------:|:------:|:----------------------------------------------------------------------------------|:----------------------------------------|
+| 2025.08 ~ Present | Backend | **OMS/MASS 시스템 운영 및 개발** | 무신사 (Musinsa) |
+| 2022.10 ~ 2025.07 | Backend | 잡플래닛 서비스 개발 | 잡플래닛 (JobPlanet) |
+| 2019.03 ~ 2022.10 | Full Stack | 사감위 시스템 구축 및 운영 (System Development & Operation) | 위세아이텍 |
 
 ### INFO
 email - milk6645@gmail.com  
