@@ -4,7 +4,6 @@
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby)
 ![Rails](https://img.shields.io/badge/Rails-CC0000?style=flat-square&logo=ruby-on-rails)
